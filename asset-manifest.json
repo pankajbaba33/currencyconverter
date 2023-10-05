@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monycovt/static/css/main.e6c13ad2.css",
+    "main.js": "/monycovt/static/js/main.01cce1b1.js",
+    "static/js/787.e2925bcf.chunk.js": "/monycovt/static/js/787.e2925bcf.chunk.js",
+    "index.html": "/monycovt/index.html",
+    "main.e6c13ad2.css.map": "/monycovt/static/css/main.e6c13ad2.css.map",
+    "main.01cce1b1.js.map": "/monycovt/static/js/main.01cce1b1.js.map",
+    "787.e2925bcf.chunk.js.map": "/monycovt/static/js/787.e2925bcf.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.01cce1b1.js"
+  ]
+}
